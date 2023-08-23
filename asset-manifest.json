@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/deeparsh7/Frontend-app-Using-React.js/static/css/main.62f439b6.css",
-    "main.js": "/deeparsh7/Frontend-app-Using-React.js/static/js/main.f3b51029.js",
-    "static/js/787.3b202775.chunk.js": "/deeparsh7/Frontend-app-Using-React.js/static/js/787.3b202775.chunk.js",
-    "index.html": "/deeparsh7/Frontend-app-Using-React.js/index.html",
-    "main.62f439b6.css.map": "/deeparsh7/Frontend-app-Using-React.js/static/css/main.62f439b6.css.map",
-    "main.f3b51029.js.map": "/deeparsh7/Frontend-app-Using-React.js/static/js/main.f3b51029.js.map",
-    "787.3b202775.chunk.js.map": "/deeparsh7/Frontend-app-Using-React.js/static/js/787.3b202775.chunk.js.map"
+    "main.css": "/Frontend-app-Using-React.js/static/css/main.62f439b6.css",
+    "main.js": "/Frontend-app-Using-React.js/static/js/main.803b7020.js",
+    "static/js/787.3b202775.chunk.js": "/Frontend-app-Using-React.js/static/js/787.3b202775.chunk.js",
+    "index.html": "/Frontend-app-Using-React.js/index.html",
+    "main.62f439b6.css.map": "/Frontend-app-Using-React.js/static/css/main.62f439b6.css.map",
+    "main.803b7020.js.map": "/Frontend-app-Using-React.js/static/js/main.803b7020.js.map",
+    "787.3b202775.chunk.js.map": "/Frontend-app-Using-React.js/static/js/787.3b202775.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62f439b6.css",
-    "static/js/main.f3b51029.js"
+    "static/js/main.803b7020.js"
   ]
 }
