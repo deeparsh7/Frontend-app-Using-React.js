@@ -1,10 +1,10 @@
-Frontend App using React.js 
+**Frontend App using React.js** 
 
 The Frontend App built with React.js provides users the capability to generate tooltips dynamically on a mobile screen preview. This app serves as a tool to visualize tooltip positions, styles, and text changes in real-time.
 
-Live Preview: https://deeparsh7.github.io/Frontend-app-Using-React.js/
+**Live Preview: https://deeparsh7.github.io/Frontend-app-Using-React.js/**
 
-Functionalities:
+**Functionalities:**
 
 Tooltip Customization: Users have the flexibility to select the target element for the tooltip, set its position, customize its style (including text size, padding, color, background color, corner radius, width), and input the tooltip text.
 
@@ -12,7 +12,7 @@ Real-time Mobile Screen Preview: A mobile screen mockup is provided where button
 
 Pure CSS Positioning: This tooltip system is built without relying on any additional libraries, ensuring lightweight and efficient rendering.
 
-Project Structure:
+**Project Structure:**
 
 TooltipForm Component: This component contains the form elements allowing users to customize the tooltip's target, position, style, and text.
 
@@ -22,7 +22,7 @@ Code Maintenance and Version Control:
 
 The project's development progress can be tracked through its commit history. Each commit serves as a checkpoint, detailing the changes made, ensuring easy rollback if needed, and maintaining a clear development timeline.
 
-How to Run:
+**How to Run:**
 
 README
 Frontend App using React.js
