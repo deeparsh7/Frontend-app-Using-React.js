@@ -3,6 +3,8 @@
 The Frontend App built with React.js provides users the capability to generate tooltips dynamically on a mobile screen preview. This app serves as a tool to visualize tooltip positions, styles, and text changes in real-time.
 
 **Live Preview: https://deeparsh7.github.io/Frontend-app-Using-React.js/**
+![image](https://github.com/deeparsh7/Frontend-app-Using-React.js/assets/121679549/80f077d6-a8be-4daf-9009-bc52bfb69672)
+
 
 **Functionalities:**
 
@@ -25,8 +27,6 @@ Clone the Repository:
 git clone https://github.com/deeparsh7/Frontend-app-Using-React.js.git
 
 Navigate to the project directory:
-
-cd Frontend-app-Using-React.js
 
 Install Dependencies:
 
